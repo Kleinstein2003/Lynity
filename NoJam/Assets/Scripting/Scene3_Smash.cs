@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Scene3_Smash : MonoBehaviour
 {
-    public GameObject Franzose2;
+    public GameObject RatteDead;
 
     void OnMouseDown()
     {
         Destroy(gameObject);
-        Instantiate(Franzose2, transform.position, Quaternion.identity);
+        Instantiate(RatteDead, transform.position, Quaternion.identity);
     }
 }
