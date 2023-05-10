@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 1cb7dbc151a94a948946c967e9682f26
   - enabled: 1
     path: Assets/Scenes/S0_Intro.unity
     guid: 3e34d116007af5f47b384c256eaf1375
@@ -14,22 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/S2_Messer.unity
     guid: f1e912f00e3deb943972172b3eae825e
-  - enabled: 1
-    path: Assets/Scenes/S3_Stampfer.unity
-    guid: 81b79605df543fd409e69c9bd379b5c1
-  - enabled: 1
-    path: Assets/Scenes/S4_Optionen.unity
-    guid: aef072236d0c37a4eb7955e875665c5f
-<<<<<<< HEAD
-=======
-  - enabled: 1
-    path: Assets/Scenes/scene5.unity
-    guid: 0f8e60fa66b78d74bb3d545bf6dc9c67
-  - enabled: 1
-    path: Assets/Scenes/scene6.unity
-    guid: 389052e44b5966e42b4ee7996580e87a
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
->>>>>>> 51fdfaf767baac60e867c4a2fca5934290cc3960
   m_configObjects: {}
