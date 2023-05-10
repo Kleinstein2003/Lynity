@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: DropZone
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"nest":{"source":"Embed","macro":null,"embed":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[{"key":"Enter","label":null,"summary":null,"hideLabel":false},{"key":"Drop","label":null,"summary":null,"hideLabel":false},{"key":"Exit","label":null,"summary":null,"hideLabel":false}],"valueInputDefinitions":[{"hasDefaultValue":false,"defaultValue":{"$content":false,"$type":"System.Boolean"},"_type":"System.Boolean","key":"Enabled","label":null,"summary":null,"hideLabel":false},{"hasDefaultValue":false,"defaultValue":null,"_type":"System.Collections.Generic.List`1[[System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]","key":"Categories","label":null,"summary":null,"hideLabel":false}],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":115.0,"y":-78.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-250.0,"y":-30.0},"guid":"c3a659d1-5505-4f40-9b90-90e1b54a928b","$version":"A","$type":"Unity.VisualScripting.GraphInput"},{"defaultValues":{},"position":{"x":105.0,"y":-30.0},"guid":"54560970-664c-4e43-bdbb-062255ebfc13","$version":"A","$type":"Unity.VisualScripting.GraphOutput"}],"$version":"A"}},"defaultValues":{},"position":{"x":-225.0,"y":-12.0},"guid":"40d15deb-4078-45ef-ac37-dca9be7b38b7","$version":"A","$type":"Unity.VisualScripting.SubgraphUnit","$id":"9"},{"chainable":false,"parameterNames":["message"],"member":{"name":"Log","parameterTypes":["System.Object"],"targetType":"UnityEngine.Debug","targetTypeName":"UnityEngine.Debug","$version":"A"},"defaultValues":{},"position":{"x":97.0,"y":9.0},"guid":"7d9043a1-c4dd-48d1-aa8f-19c425ac08d9","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"29"},{"type":"System.String","value":{"$content":"Drop
+      on plate","$type":"System.String"},"defaultValues":{},"position":{"x":-94.0,"y":176.0},"guid":"a604eb57-07da-495b-9f2d-ff158cc795a2","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"33"},{"type":"System.Collections.Generic.List`1[[System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]","value":{"$content":[],"$type":"System.Collections.Generic.List`1[[System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"defaultValues":{},"position":{"x":-433.0,"y":98.0},"guid":"201c0505-0fe3-4367-956f-1f37790fb7cc","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"35"},{"sourceUnit":{"$ref":"9"},"sourceKey":"Drop","destinationUnit":{"$ref":"29"},"destinationKey":"enter","guid":"bc2ec5be-427a-46fc-b145-8cc61ed34002","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"33"},"sourceKey":"output","destinationUnit":{"$ref":"29"},"destinationKey":"%message","guid":"dffa71ff-5f48-4273-99a2-474d41e2e898","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"35"},"sourceKey":"output","destinationUnit":{"$ref":"9"},"destinationKey":"Categories","guid":"c66c7927-cb95-475f-9e5e-f5464204998c","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
