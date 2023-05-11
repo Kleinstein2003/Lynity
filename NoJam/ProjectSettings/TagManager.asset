@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Goal
+  - StampferFranzose
+  - StampferHuhn
+  - StampferKiefer
+  - StampferHund
+  - StampferRatte
+  - StampferSpiegel
+  - MesserTeig
+  - MesserTomate
+  - MesserEi
   layers:
   - Default
   - TransparentFX

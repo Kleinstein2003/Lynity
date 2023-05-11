@@ -4,9 +4,16 @@ using UnityEngine;
 
 public class Scene3_FollowMouse : MonoBehaviour
 {
-public void Update()
-{
-    Vector2 cursorPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        transform.position = new Vector2(cursorPos.x, cursorPos.y);
-}
+   
+    void Awake()
+    {
+        Cursor.visible = false;
+    }
+
+
+    void Update()
+    {
+        Vector2 mouseCursorPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        transform.position = mouseCursorPos;
+    }
 }
