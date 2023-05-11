@@ -18,6 +18,42 @@ EditorBuildSettings:
     path: Assets/Scenes/S1.2_Frenchtoast.unity
     guid: 397ccdf4f2bbb7440abecee0bd89c030
   - enabled: 1
+    path: Assets/Scenes/S1.1_Spiegelei.unity
+    guid: d88ca109b7010844c8551f0922c2f0f8
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Spiegelei.unity
+    guid: a1ca2325079efd0468e022800cec4c58
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Spiegel.unity
+    guid: c4e16b33ace7f2a429047114f58fd18f
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Spiegelei.unity
+    guid: a2b40b150a8767e49beba258b00b5fc0
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Kiefer.unity
+    guid: 1a898d9ffe7c8344ca4304090344ac48
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Kiefer.unity
+    guid: 5270cdacd75ccee4987d3c4dc7aa19c8
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Kiefer.unity
+    guid: a291e4b6341f2134aaaa9d0ee3f361d8
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Kiefer.unity
+    guid: 59faf5b8c36661040b6b3623330e0a30
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Huhn.unity
+    guid: 3bd3446dadb73df40b189b748d90cae6
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Huhn.unity
+    guid: cebaa934ab6313b4dbe5e57e2e8f8dbf
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Hund.unity
+    guid: 9891fc8787d567c4094cc386f2f7ea39
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Huhn.unity
+    guid: 42b3c6d6e06467e4a97db51109307f63
+  - enabled: 1
     path: Assets/Scenes/S2.1_EiKiefer.unity
     guid: affbec991a75da146a0ec2c73de5b514
   - enabled: 1
@@ -30,7 +66,7 @@ EditorBuildSettings:
     path: Assets/Scenes/S1.1_Hund.unity
     guid: 9aeb84b3a7f2e634bbaf991294b568f8
   - enabled: 1
-    path: Assets/Scenes/S1.3_Hund.unity
+    path: Assets/Scenes/S1.3_Huhn.unity
     guid: c80910b51ec37ae459445d14e54681bf
   - enabled: 1
     path: Assets/Scenes/S1.4_Hund.unity
