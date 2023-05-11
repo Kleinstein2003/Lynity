@@ -7,7 +7,7 @@ public class Scene3_FollowMouse : MonoBehaviour
    
     void Awake()
     {
-        Cursor.visible = false;
+        Cursor.visible = true;
     }
 
 
