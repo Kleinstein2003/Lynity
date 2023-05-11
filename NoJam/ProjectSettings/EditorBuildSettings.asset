@@ -24,6 +24,7 @@ EditorBuildSettings:
     path: Assets/Scenes/S1.4_Frenchtoast.unity
     guid: 2506e8a6c5dfe094a9ce7fa49d41849f
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/S1.1.1_Ratte.unity
     guid: 98c5ec4a69fb37444aa0f8e5347d292f
   - enabled: 1
@@ -37,12 +38,15 @@ EditorBuildSettings:
     guid: d20e276a17fea9740b3f0ff8afa861ad
   - enabled: 1
     path: Assets/Scenes/S2.0_Tomate.unity
+=======
+    path: Assets/Scenes/S2.0_TomateRatte.unity
+>>>>>>> 2879fb7d2eba499e3bb830bec2cd81757b9e430f
     guid: f1e912f00e3deb943972172b3eae825e
   - enabled: 1
-    path: Assets/Scenes/S2.1_Ei.unity
+    path: Assets/Scenes/S2.1_EiSpiegel.unity
     guid: 8cc65b91c1aa6e9489267e674435e2c6
   - enabled: 1
-    path: Assets/Scenes/S2.2_Teig.unity
+    path: Assets/Scenes/S2.2_TeigFranz.unity
     guid: bd593fd18e77f414db4f05cc6ff4bb5c
   - enabled: 1
     path: Assets/Scenes/S3.0_Ratte.unity
