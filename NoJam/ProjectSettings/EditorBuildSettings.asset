@@ -24,13 +24,25 @@ EditorBuildSettings:
     path: Assets/Scenes/S2.0_TomateHuhn.unity
     guid: 3795f64443e74f143965b26eb7310f80
   - enabled: 1
+    path: Assets/Scenes/S1.1.1_Ratte.unity
+    guid: f2f1dd3676a39ca45bf56754096c1b31
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Hund.unity
+    guid: 9aeb84b3a7f2e634bbaf991294b568f8
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Hund.unity
+    guid: c80910b51ec37ae459445d14e54681bf
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Hund.unity
+    guid: 3f195b3d1bb9a5340a495adc5c677625
+  - enabled: 1
     path: Assets/Scenes/S1.3_Frenchtoast.unity
     guid: a4c509faff19bf8458975e48364fa060
   - enabled: 1
     path: Assets/Scenes/S1.4_Frenchtoast.unity
     guid: 2506e8a6c5dfe094a9ce7fa49d41849f
   - enabled: 1
-    path: Assets/Scenes/S1.1.1_Ratte.unity
+    path: Assets/Scenes/S1.2_Hund.unity
     guid: 98c5ec4a69fb37444aa0f8e5347d292f
   - enabled: 1
     path: Assets/Scenes/S1.1.2_Ratte.unity
