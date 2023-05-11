@@ -11,7 +11,7 @@ public class trial : MonoBehaviour
     {
         if(transform.childCount<1)
         {
-            SceneManager.LoadScene("S1_Küche");
+            SceneManager.LoadScene("S1.1.2_Ratte");
         }
     }
 }
