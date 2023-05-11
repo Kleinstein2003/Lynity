@@ -15,11 +15,23 @@ EditorBuildSettings:
     path: Assets/Scenes/S2_Messer.unity
     guid: f1e912f00e3deb943972172b3eae825e
   - enabled: 1
-    path: Assets/Scenes/S3_St_Ratte 1.unity
+    path: Assets/Scenes/S3.0_Ratte.unity
     guid: f4b0dc24c4d1e3144a70693d67777857
   - enabled: 1
-    path: Assets/Scenes/S3.1_St_Spiegel.unity
+    path: Assets/Scenes/S3.1_Spiegel.unity
     guid: 81b79605df543fd409e69c9bd379b5c1
+  - enabled: 1
+    path: Assets/Scenes/S3.2_Franzose.unity
+    guid: a4e82421e080b4b41ab7c53d238f8f0d
+  - enabled: 1
+    path: Assets/Scenes/S3.3_Hund.unity
+    guid: f2ff77329f8f21346b4ad80505c33a4e
+  - enabled: 1
+    path: Assets/Scenes/S3.4_Huhn.unity
+    guid: 978ce21da5d549e46b5101b4cd1ccd4c
+  - enabled: 1
+    path: Assets/Scenes/S3.5_Kiefer.unity
+    guid: 55723caa5786a0a4eb1515f44010c7ce
   - enabled: 1
     path: Assets/Scenes/S4_Optionen.unity
     guid: aef072236d0c37a4eb7955e875665c5f
