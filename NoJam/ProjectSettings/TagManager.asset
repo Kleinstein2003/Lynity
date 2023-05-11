@@ -14,6 +14,7 @@ TagManager:
   - MesserTeig
   - MesserTomate
   - MesserEi
+  - SoundManager
   layers:
   - Default
   - TransparentFX
