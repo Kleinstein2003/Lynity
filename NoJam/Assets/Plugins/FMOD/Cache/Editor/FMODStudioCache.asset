@@ -1,6 +1,68 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-6622750271316397209
+--- !u!114 &-4847023888899822851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FModBanks 1/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638194798053058053
+  FileSizes: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 5413534930657804290}
+  - {fileID: -4847023888899822851}
+  EditorEvents:
+  - {fileID: 8048641181306381994}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -4847023888899822851}
+  StringsBanks:
+  - {fileID: 5413534930657804290}
+  cacheTime: 638194798053068074
+  cacheVersion: 131603
+--- !u!114 &5413534930657804290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FModBanks 1/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638194798053068074
+  FileSizes:
+  - Name: 
+    Value: 760
+  Exists: 1
+--- !u!114 &8048641181306381994
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -19,7 +81,7 @@ MonoBehaviour:
     Data3: -2061915230
     Data4: 307316645
   Banks:
-  - {fileID: -604642053817374942}
+  - {fileID: -4847023888899822851}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
@@ -27,77 +89,3 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
---- !u!114 &-604642053817374942
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/FModBanks 1/Desktop/Master.bank
-  Name: Master
-  StudioPath: bank:/Master
-<<<<<<< HEAD
-  lastModified: 638194512737547266
-=======
-  lastModified: 638194798053058053
->>>>>>> 96a7901822e294f5de17a4b403b69a8bc3f4e424
-  FileSizes: []
-  Exists: 1
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
-  m_Name: FMODStudioCache
-  m_EditorClassIdentifier: 
-  EditorBanks:
-  - {fileID: 568660645517933090}
-  - {fileID: -604642053817374942}
-  EditorEvents:
-  - {fileID: -6622750271316397209}
-  EditorParameters: []
-  MasterBanks:
-  - {fileID: -604642053817374942}
-  StringsBanks:
-  - {fileID: 568660645517933090}
-<<<<<<< HEAD
-  cacheTime: 638194512737557286
-=======
-  cacheTime: 638194798053068074
->>>>>>> 96a7901822e294f5de17a4b403b69a8bc3f4e424
-  cacheVersion: 131603
---- !u!114 &568660645517933090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
-  m_Name: bank:/Master.strings.bank
-  m_EditorClassIdentifier: 
-  Path: Assets/FModBanks 1/Desktop/Master.strings.bank
-  Name: Master.strings
-  StudioPath: bank:/Master.strings
-<<<<<<< HEAD
-  lastModified: 638194512737557286
-=======
-  lastModified: 638194798053068074
->>>>>>> 96a7901822e294f5de17a4b403b69a8bc3f4e424
-  FileSizes:
-  - Name: 
-    Value: 760
-  Exists: 1
