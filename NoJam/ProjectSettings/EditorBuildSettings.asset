@@ -9,100 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/S0_Intro.unity
     guid: 3e34d116007af5f47b384c256eaf1375
   - enabled: 1
-    path: "Assets/Scenes/S1_K\xFCche.unity"
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-    path: Assets/Scenes/S1.1_Frenchtoast.unity
-    guid: 18ff4a88004474ed1817797eda957e78
-  - enabled: 1
-    path: Assets/Scenes/S1.2_Frenchtoast.unity
-    guid: 397ccdf4f2bbb7440abecee0bd89c030
-  - enabled: 1
-<<<<<<< HEAD
-    path: "Assets/Scenes/S1_Ku\u0308che.unity"
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-    path: "Assets/Scenes/S5_PausenMenu\u0308.unity"
-    guid: 0f8e60fa66b78d74bb3d545bf6dc9c67
-=======
-    path: Assets/Scenes/S1.1.4_Ratte.unity
-    guid: ba3491e1e8f96504884295f36ad8e646
->>>>>>> 374a716cacc07009f773f444f8c4dae41eee83c2
-  - enabled: 1
-    path: Assets/Scenes/S1.1_Spiegelei.unity
-    guid: d88ca109b7010844c8551f0922c2f0f8
-  - enabled: 1
-    path: Assets/Scenes/S1.2_Spiegelei.unity
-    guid: a1ca2325079efd0468e022800cec4c58
-  - enabled: 1
-    path: Assets/Scenes/S1.3_Spiegel.unity
-    guid: c4e16b33ace7f2a429047114f58fd18f
-  - enabled: 1
-    path: Assets/Scenes/S1.4_Spiegelei.unity
-    guid: a2b40b150a8767e49beba258b00b5fc0
-  - enabled: 1
-    path: Assets/Scenes/S1.1_Kiefer.unity
-    guid: 1a898d9ffe7c8344ca4304090344ac48
-  - enabled: 1
-    path: Assets/Scenes/S1.1_Spiegelei.unity
-    guid: d88ca109b7010844c8551f0922c2f0f8
-  - enabled: 1
-    path: Assets/Scenes/S1.2_Spiegelei.unity
-    guid: a1ca2325079efd0468e022800cec4c58
-  - enabled: 1
-    path: Assets/Scenes/S1.3_Spiegel.unity
-    guid: c4e16b33ace7f2a429047114f58fd18f
-  - enabled: 1
-    path: Assets/Scenes/S1.4_Spiegelei.unity
-    guid: a2b40b150a8767e49beba258b00b5fc0
-  - enabled: 1
-    path: Assets/Scenes/S1.2_Kiefer.unity
-    guid: 5270cdacd75ccee4987d3c4dc7aa19c8
-  - enabled: 1
-    path: Assets/Scenes/S1.3_Kiefer.unity
-    guid: a291e4b6341f2134aaaa9d0ee3f361d8
-  - enabled: 1
-    path: Assets/Scenes/S1.4_Kiefer.unity
-    guid: 59faf5b8c36661040b6b3623330e0a30
-  - enabled: 1
-    path: Assets/Scenes/S1.1_Huhn.unity
-    guid: 3bd3446dadb73df40b189b748d90cae6
-  - enabled: 1
-    path: Assets/Scenes/S1.2_Huhn.unity
-    guid: cebaa934ab6313b4dbe5e57e2e8f8dbf
-  - enabled: 1
-    path: Assets/Scenes/S1.3_Hund.unity
-    guid: 9891fc8787d567c4094cc386f2f7ea39
-  - enabled: 1
-    path: Assets/Scenes/S1.4_Huhn.unity
-    guid: 42b3c6d6e06467e4a97db51109307f63
-  - enabled: 1
-    path: Assets/Scenes/S2.1_EiKiefer.unity
-    guid: affbec991a75da146a0ec2c73de5b514
-  - enabled: 1
-    path: Assets/Scenes/S2.0_TomateHuhn.unity
-    guid: 3795f64443e74f143965b26eb7310f80
-  - enabled: 1
     path: Assets/Scenes/S1.1.1_Ratte.unity
     guid: f2f1dd3676a39ca45bf56754096c1b31
-  - enabled: 1
-    path: Assets/Scenes/S1.1_Hund.unity
-    guid: 9aeb84b3a7f2e634bbaf991294b568f8
-  - enabled: 1
-    path: Assets/Scenes/S1.3_Huhn.unity
-    guid: c80910b51ec37ae459445d14e54681bf
-  - enabled: 1
-    path: Assets/Scenes/S1.4_Hund.unity
-    guid: 3f195b3d1bb9a5340a495adc5c677625
-  - enabled: 1
-    path: Assets/Scenes/S1.3_Frenchtoast.unity
-    guid: a4c509faff19bf8458975e48364fa060
-  - enabled: 1
-    path: Assets/Scenes/S1.4_Frenchtoast.unity
-    guid: 2506e8a6c5dfe094a9ce7fa49d41849f
-  - enabled: 1
-    path: Assets/Scenes/S1.2_Hund.unity
-    guid: 98c5ec4a69fb37444aa0f8e5347d292f
   - enabled: 1
     path: Assets/Scenes/S1.1.2_Ratte.unity
     guid: dec6768a8d3806346bee20a94185d8d2
@@ -110,20 +18,89 @@ EditorBuildSettings:
     path: Assets/Scenes/S1.1.3_Ratte.unity
     guid: 30f9841054cdc5a4b862e3746ed59a7a
   - enabled: 1
-    path: 
-    guid: d20e276a17fea9740b3f0ff8afa861ad
+    path: Assets/Scenes/S1.1.4_Ratte.unity
+    guid: ba3491e1e8f96504884295f36ad8e646
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Frenchtoast.unity
+    guid: 18ff4a88004474ed1817797eda957e78
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Huhn.unity
+    guid: 3bd3446dadb73df40b189b748d90cae6
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Hund.unity
+    guid: 9aeb84b3a7f2e634bbaf991294b568f8
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Kiefer.unity
+    guid: 1a898d9ffe7c8344ca4304090344ac48
+  - enabled: 1
+    path: Assets/Scenes/S1.1_Spiegelei.unity
+    guid: d88ca109b7010844c8551f0922c2f0f8
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Frenchtoast.unity
+    guid: 397ccdf4f2bbb7440abecee0bd89c030
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Huhn.unity
+    guid: cebaa934ab6313b4dbe5e57e2e8f8dbf
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Hund.unity
+    guid: 98c5ec4a69fb37444aa0f8e5347d292f
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Kiefer.unity
+    guid: 5270cdacd75ccee4987d3c4dc7aa19c8
+  - enabled: 1
+    path: Assets/Scenes/S1.2_Spiegelei.unity
+    guid: a1ca2325079efd0468e022800cec4c58
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Frenchtoast.unity
+    guid: a4c509faff19bf8458975e48364fa060
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Huhn.unity
+    guid: c80910b51ec37ae459445d14e54681bf
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Hund.unity
+    guid: 9891fc8787d567c4094cc386f2f7ea39
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Kiefer.unity
+    guid: a291e4b6341f2134aaaa9d0ee3f361d8
+  - enabled: 1
+    path: Assets/Scenes/S1.3_Spiegel.unity
+    guid: c4e16b33ace7f2a429047114f58fd18f
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Frenchtoast.unity
+    guid: 2506e8a6c5dfe094a9ce7fa49d41849f
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Huhn.unity
+    guid: 42b3c6d6e06467e4a97db51109307f63
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Hund.unity
+    guid: 3f195b3d1bb9a5340a495adc5c677625
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Kiefer.unity
+    guid: 59faf5b8c36661040b6b3623330e0a30
+  - enabled: 1
+    path: Assets/Scenes/S1.4_Spiegelei.unity
+    guid: a2b40b150a8767e49beba258b00b5fc0
+  - enabled: 1
+    path: "Assets/Scenes/S1_K\xFCche.unity"
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/S2.0_TomateHuhn.unity
+    guid: 3795f64443e74f143965b26eb7310f80
   - enabled: 1
     path: Assets/Scenes/S2.0_TomateRatte.unity
     guid: f1e912f00e3deb943972172b3eae825e
   - enabled: 1
+    path: Assets/Scenes/S2.1_EiKiefer.unity
+    guid: affbec991a75da146a0ec2c73de5b514
+  - enabled: 1
     path: Assets/Scenes/S2.1_EiSpiegel.unity
     guid: 8cc65b91c1aa6e9489267e674435e2c6
   - enabled: 1
-    path: Assets/Scenes/S2.2_TeigFranz.unity
-    guid: bd593fd18e77f414db4f05cc6ff4bb5c
-  - enabled: 1
     path: Assets/Scenes/S2.2_TeigDog.unity
     guid: 771d125990c0a254eb5cf47ba5c1f5a7
+  - enabled: 1
+    path: Assets/Scenes/S2.2_TeigFranz.unity
+    guid: bd593fd18e77f414db4f05cc6ff4bb5c
   - enabled: 1
     path: Assets/Scenes/S3.0_Ratte.unity
     guid: f4b0dc24c4d1e3144a70693d67777857
