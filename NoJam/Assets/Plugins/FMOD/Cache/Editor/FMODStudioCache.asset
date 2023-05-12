@@ -15,7 +15,11 @@ MonoBehaviour:
   Path: Assets/FModBanks 1/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
+<<<<<<< HEAD
   lastModified: 638194488104701395
+=======
+  lastModified: 638194512737547266
+>>>>>>> 374a716cacc07009f773f444f8c4dae41eee83c2
   FileSizes: []
   Exists: 1
 --- !u!114 &11400000
@@ -40,7 +44,11 @@ MonoBehaviour:
   - {fileID: -4847023888899822851}
   StringsBanks:
   - {fileID: 5413534930657804290}
+<<<<<<< HEAD
   cacheTime: 638194488104708613
+=======
+  cacheTime: 638194512737557286
+>>>>>>> 374a716cacc07009f773f444f8c4dae41eee83c2
   cacheVersion: 131603
 --- !u!114 &5413534930657804290
 MonoBehaviour:
@@ -57,7 +65,11 @@ MonoBehaviour:
   Path: Assets/FModBanks 1/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
+<<<<<<< HEAD
   lastModified: 638194488104708613
+=======
+  lastModified: 638194512737557286
+>>>>>>> 374a716cacc07009f773f444f8c4dae41eee83c2
   FileSizes:
   - Name: 
     Value: 760
