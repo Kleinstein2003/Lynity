@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/S1.2_Frenchtoast.unity
     guid: 397ccdf4f2bbb7440abecee0bd89c030
   - enabled: 1
+    path: Assets/Scenes/S1.1.4_Ratte.unity
+    guid: ba3491e1e8f96504884295f36ad8e646
+  - enabled: 1
     path: Assets/Scenes/S1.1_Spiegelei.unity
     guid: d88ca109b7010844c8551f0922c2f0f8
   - enabled: 1
@@ -99,7 +102,7 @@ EditorBuildSettings:
     path: Assets/Scenes/S1.1.3_Ratte.unity
     guid: 30f9841054cdc5a4b862e3746ed59a7a
   - enabled: 1
-    path: Assets/Scenes/S1.1.4_Ratte.unity
+    path: 
     guid: d20e276a17fea9740b3f0ff8afa861ad
   - enabled: 1
     path: Assets/Scenes/S2.0_TomateRatte.unity
